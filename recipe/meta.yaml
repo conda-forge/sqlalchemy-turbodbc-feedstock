@@ -19,15 +19,19 @@ requirements:
   host:
     - pip
     - pytest-runner
-    - python >=2.7
+    - python >=3.6
   run:
-    - python >=2.7
+    - python >=3.6
     - sqlalchemy
     - turbodbc >=1.1.0
 
 test:
   imports:
     - sqlalchemy_turbodbc
+  requires:
+    - pip
+  commands:
+    - pip check
 
 about:
   home: https://github.com/dirkjonker/sqlalchemy-turbodbc

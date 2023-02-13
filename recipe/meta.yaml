@@ -1,5 +1,5 @@
 {% set name = "sqlalchemy-turbodbc" %}
-{% set version = "1.1.2" %}
+{% set version = "1.2.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sqlalchemy_turbodbc-{{ version }}.tar.gz
-  sha256: f68b9773c4d4cefb81998bbccdf0cfc8a1417bf634ac4499aa4cca1b5ed1e58f
+  sha256: 8beeb42af6af71c3168e0acec1ea6f1a8268148f3a3fd69c8953416ddffb420e
 
 build:
   number: 0

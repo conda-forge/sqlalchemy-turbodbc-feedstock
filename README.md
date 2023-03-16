@@ -1,11 +1,11 @@
-About sqlalchemy-turbodbc
-=========================
+About sqlalchemy-turbodbc-feedstock
+===================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlalchemy-turbodbc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/dirkjonker/sqlalchemy-turbodbc
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/sqlalchemy-turbodbc-feedstock/blob/main/LICENSE.txt)
 
 Summary: SQLAlchemy dialect for Turbodbc
 
